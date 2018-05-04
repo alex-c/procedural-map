@@ -1,0 +1,31 @@
+{
+    "name": "procedural-map",
+    "version": "0.1.0",
+    "description": "Two-dimensional maps generator using procedural generation from a seed.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alex-c/procedural-map.git"
+    },
+    "keywords": [
+        "seed",
+        "map generator",
+        "map generation",
+        "dungeon generator",
+        "dungeon generation",
+        "2d map",
+        "procedural generation"
+    ],
+    "author": "Alexandre Charoy",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/alex-c/procedural-map/issues"
+    },
+    "homepage": "https://github.com/alex-c/procedural-map#readme",
+    "dependencies": {
+        "seedrandom": "^2.4.3"
+    }
+}
